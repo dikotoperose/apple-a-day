@@ -19,10 +19,12 @@ npm install
 
 ## DB Connectivity
 
-> Install SQLite 
-> Create a new file called database.sqlite under your app/database folder
-> Copy the full path of the database.sqlite file
-> Add it to DB_DATABASE in your .env file 
+```sh
+- Install SQLite 
+- Create a new file called database.sqlite under your app/database folder
+- Copy the full path of the database.sqlite file
+- Add it to DB_DATABASE in your .env file 
+```
 
 ## Show your support
 
